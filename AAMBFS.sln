@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAMBFS", "AAMBFS.csproj", "{EE0659FC-4860-43AC-ACD7-613789550003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0659FC-4860-43AC-ACD7-613789550003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0659FC-4860-43AC-ACD7-613789550003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0659FC-4860-43AC-ACD7-613789550003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0659FC-4860-43AC-ACD7-613789550003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65663502-E30A-481E-BDA0-EAD9F6973221}
+	EndGlobalSection
+EndGlobal
